@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfd33944-a986-4013-baa8-d369a25b9650" name="Default Changelist" comment="" />
+    <list default="true" id="cfd33944-a986-4013-baa8-d369a25b9650" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/php_docker_xdebug/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_docker_xdebug/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_docker_xdebug/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +65,7 @@
       <workItem from="1605541354326" duration="4249000" />
       <workItem from="1605546925504" duration="355000" />
       <workItem from="1606228047735" duration="409000" />
+      <workItem from="1606228473118" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1605541591748</created>
@@ -97,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606228420750</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="r">
+      <created>1606228685235</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606228685235</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +120,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="xdebug zero working config" />
     <MESSAGE value="php docker xdebug minimal config" />
-    <option name="LAST_COMMIT_MESSAGE" value="php docker xdebug minimal config" />
+    <MESSAGE value="r" />
+    <option name="LAST_COMMIT_MESSAGE" value="r" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="90" key="#CLI_Interpreters" timestamp="1605546103676">
