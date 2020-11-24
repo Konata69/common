@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfd33944-a986-4013-baa8-d369a25b9650" name="Default Changelist" comment="php docker xdebug minimal config" />
+    <list default="true" id="cfd33944-a986-4013-baa8-d369a25b9650" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +60,7 @@
       <updated>1605541353222</updated>
       <workItem from="1605541354326" duration="4249000" />
       <workItem from="1605546925504" duration="355000" />
-      <workItem from="1606228047735" duration="316000" />
+      <workItem from="1606228047735" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1605541591748</created>
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606228122678</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="php docker xdebug minimal config">
+      <created>1606228420750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606228420750</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,10 +131,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="605" y="301" width="709" height="447" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/0.0.1920.1040@0.0.1920.1040" timestamp="1605546342203" />
-    <state x="500" y="0" key="CommitChangelistDialog2" timestamp="1606228339269">
+    <state x="500" y="0" key="CommitChangelistDialog2" timestamp="1606228420325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="500" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606228339269" />
+    <state x="500" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606228420325" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1605541672725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -148,10 +155,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="351" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605546193851" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1606228276823">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1606228430985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606228276823" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606228430985" />
     <state x="739" y="364" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1605544487687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
